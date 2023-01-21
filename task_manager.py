@@ -5,7 +5,7 @@ from datetime import datetime
 import os.path
 
 
-# Functions for each read/write version of opening the file. - Reading, you only need to open once really. Writing different.
+# I could include functions for each read/write version of opening the file. - Reading, you only need to open once really. Writing different.
 
 
 # =====Defining Functions===========

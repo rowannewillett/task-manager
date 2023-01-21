@@ -1,0 +1,14 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 October 2019, 20 October 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 30 January 2023, 25 October 2019, Yes
+rowanne, Wash your hair, Use shampoo then conditioner., 2 January 2023, 28 December 2022, Yes
+rowanne, Do your coding homework. , Read through HyperionDev tasks., 29 March 2023, 28 December 2022, Yes
+ethan, Visit Scotland., Drive to Dumfries., 4 March 2023, 28 December 2022, No
+chris, Use the campervan., Travel one hour away., 1 May 2023, 28 December 2022, No
+stu, Walk the dogs., Take Mollie Pip and Milo out., 10 July 2023, 28 December 2022, No
+madeleine, Clean the bathroom., Clean the sink and the loo., 3 January 2023, 02 January 2023, No
+chris, chr1s, Practice your login details., 10 October 2023, 02 January 2023, No
+madeleine, Go to F45, Do a circuit class, 4 January 2023, 3 January 2023, No
+rowanne, Fix washing machine now, Engineer visiting, 10 January 2023, 09 January 2023, Yes
+rowanne, new task, a new one, 19 January 2023, 10 January 2023, Yes
+tilly, Present to the team, Differentiators, 10 January 2023, 12 January 2023, No
+tilly, Move house, Pack and move, 30 January 2023, 14 January 2023, No

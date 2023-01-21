@@ -35,7 +35,8 @@ def reg_user():
 
             open_user_file.write(f"\n{new_username}, {new_password}")
 
-    print('\n✨ User created, thanks! ✨\n')
+            print('\n✨ User created, thanks! ✨\n')
+
 
 
 def add_task():

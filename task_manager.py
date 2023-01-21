@@ -192,7 +192,7 @@ def view_mine():
 def view_stats():
     # This block presents the stats (total number of tasks and users) to the admin. It does this by reding the
     # total number of lines in the tasks file (for number of tasks), and then by iterating through the lines in the
-    # text file and adding the user name if it's the first instance of. It then counts the number of user (for
+    # text file and adding the username if it's the first instance of. It then counts the number of user (for
     # total users).
 
     if os.path.exists('task_overview.txt') and os.path.exists(
@@ -441,7 +441,7 @@ list_login_details = all_user_file_content.split()
 for i in range(len(list_login_details)):
     list_login_details[i] = list_login_details[i].replace(',', '')
 
-# Create empty variables for storing split out user names and passwords.
+# Create empty variables for storing split out usernames and passwords.
 user_names = []
 passwords = []
 name1 = ""
